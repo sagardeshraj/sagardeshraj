@@ -1,17 +1,16 @@
 <img align="center" alt="Coding" width="100%" src="https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233" >
-<h1 align="center">Hi, I'm Sagar Deshraj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Sagar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagardeshraj&label=Profile%20views&color=0e75b6&style=flat" alt="sagardeshraj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagardeshraj" alt="sagardeshraj" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Trading, Chess, writing better code than before..**
 
 - 👨‍💻 All of my projects are available at [https://sagardeshraj14.vercel.app/](https://sagardeshraj14.vercel.app/)
 
 - 📫 How to reach me **Saagardeshraj14@gmail.com**
 
-- ⚡ Fun fact **I never make mistakes in my code - I just create unexpected features..**
+- ⚡ Fun fact **I had checkmate top elo rating chess engine(3200)on chess.com when i was drunk, never made it while sober**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
